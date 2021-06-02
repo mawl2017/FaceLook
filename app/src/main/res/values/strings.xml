@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaceLook</string>
+
+
+    <string name="face_model_delete">人脸模型删除</string>
+
+
+</resources>
